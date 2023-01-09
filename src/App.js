@@ -3,16 +3,16 @@ import Navbar from "./components/Navbar/Navbar";
 import SectionUp from "./components/SectionUp/SectionUp";
 import UsList from "./components/Us/UsList";
 import Footer from "./components/Footer/Footer";
-import ContainerBlueList from "./components/ContainerBlue/ContainerBlueList";
+import OffersList from "./components/OffersList/OffersList";
 
 function App() {
   return (
     <>
-      <Navbar></Navbar>
-      <SectionUp></SectionUp>
-      <UsList></UsList>
-      <ContainerBlueList></ContainerBlueList>
-      <Footer></Footer>
+      <Navbar />
+      <SectionUp />
+      <UsList />
+      <OffersList />
+      <Footer />
     </>
   );
 }

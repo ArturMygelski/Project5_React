@@ -5,7 +5,6 @@ const Offer = ({ name, isNew }) => {
   return (
     <div className={boxClass}>
       {name}
-      <br />
       {isNew && <>(Nowość)</>}
       {isNew && <div className="elipse"> </div>}
     </div>
