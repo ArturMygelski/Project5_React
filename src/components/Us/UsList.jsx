@@ -21,9 +21,7 @@ const UsList = () => {
       name={name}
       depart={depart}
       descript={descript}
-    >
-      {" "}
-    </Us>
+    />
   ));
   return (
     <section className="us">

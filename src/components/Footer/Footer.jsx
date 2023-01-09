@@ -8,10 +8,10 @@ const Footer = () => {
   return (
     <footer>
       <div className="container footer-container">
-        <div className="footerL">
+        <div className="footer-left">
           <p>Nazwa firmy - wszelkie prawa zastrzeżone, 2019</p>
         </div>
-        <div className="footerR">
+        <div className="footer-right">
           <FontAwesomeIcon icon={faFacebookSquare} />
           <FontAwesomeIcon icon={faInstagramSquare} />
         </div>
