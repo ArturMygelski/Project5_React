@@ -4,8 +4,8 @@ const Offer = ({ name, isNew }) => {
 
   return (
     <div className={boxClass}>
-      {name}
-      {isNew && <>(Nowość)</>}
+      <p>{name}</p>
+      {isNew && <p>(Nowość)</p>}
       {isNew && <div className="elipse"> </div>}
     </div>
   );

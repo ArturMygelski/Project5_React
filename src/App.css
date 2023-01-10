@@ -242,7 +242,7 @@ p {
   justify-content: center;
   margin-bottom: 10px;
   transition: 1s;
-  white-space: pre;
+  flex-direction: column;
 }
 
 footer {
