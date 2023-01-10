@@ -1,3 +1,7 @@
+Projekt jest graficzna prezentacja oferty firmy X, wraz ze spersonalizowanym przedstawieniem samej firmy poprzez wyszczegolnienie jej specjalistow wraz z krotkim opisem.
+w sekcji ofertowej kazdy z produktow stanowi odddzielny element, nowosc w ofercie zaznaczona jest w sposob pozwalajacay na szybka identyfikacje.
+kontakt poki co jest zablokowany, ale pozostawia mozliwosc poszerzenia uzytecznosci o formularz kontaktowy etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
